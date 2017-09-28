@@ -5,6 +5,9 @@ package com.lanou.test;
  */
 public class MainTest {
     public static void main(String[] args) {
+        System.out.println("sss");
+
+
         System.out.println("虎先锋!");
     }
 }
